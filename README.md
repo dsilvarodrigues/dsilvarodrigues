@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com" width="100%" alt="gif animado">
+  <video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
 </div>
