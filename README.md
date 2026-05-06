@@ -1,4 +1,1 @@
-<div align="center">
-  <video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
-</div>
-
+<img width="1899" height="637" alt="ez8yeog7thhc1" src="https://github.com/user-attachments/assets/d3c623ef-2531-44f0-8def-11f54cbf564f" />
