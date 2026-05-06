@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dsilvarodrigues.dsilvarodrigues" />
-</div>
-
----
-
 ### 🛠️ Technology Stack
 
 <div align="center">
@@ -34,15 +28,15 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=dsilvarodrigues&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dsilvarodrigues&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </div>
