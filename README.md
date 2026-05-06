@@ -32,15 +32,15 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=dsilvarodrigues&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=48cae4&border_color=0077b6" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dsilvarodrigues&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dsilvarodrigues&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=48cae4&border_color=0077b6" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=dsilvarodrigues&theme=radical&hide_border=false&border_radius=5&locale=en&mode=daily" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dsilvarodrigues&hide_border=false&border_radius=5&locale=en&mode=daily&background=0d1117&ring=00b4d8&fire=48cae4&currStreakLabel=00b4d8&sideLabels=caf0f8&currStreakNum=caf0f8&sideNums=caf0f8&dates=90e0ef&border=0077b6" alt="GitHub Streak" />
 </div>
