@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🛠️ Technology Stack
+<h3>🛠️ Technology Stack <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" /></h3>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### 📊 My Github Stats
+<h3>📊 My Github Stats <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="22" /></h3>
 
 </div>
 
