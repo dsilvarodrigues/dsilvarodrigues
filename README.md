@@ -1,3 +1,4 @@
 <div align="center">
-  <video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
 </div>
+
