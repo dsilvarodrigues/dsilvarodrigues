@@ -3,12 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+D.+Silva+Rodrigues+%F0%9F%91%8B;A+Student+%2F+Developer+in+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+D.+Silva+Rodrigues;A+Student+%2F+Developer+in+making" alt="Typing SVG" />
 </div>
 
 ---
 
+<div align="center">
+
 ### 🛠️ Technology Stack
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
@@ -26,7 +30,11 @@
 
 ---
 
+<div align="center">
+
 ### 📊 My Github Stats
+
+</div>
 
 <div align="center">
   <table border="0">
