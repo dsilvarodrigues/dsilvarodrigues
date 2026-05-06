@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>📊 Minhas Estatísticas do GitHub</h1>
+  <h1>My GitHub Stats
 
   <!-- Tabela para os dois cartões superiores -->
   <table border="0">
