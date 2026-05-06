@@ -14,7 +14,9 @@
   I'm open to collaborating on projects — feel free to reach out! 🤝
 </p>
 
---- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" /></h3>
+<div align="center">
+
+<h3>🛠️ Technology Stack <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" /></h3>
 
 </div>
 
