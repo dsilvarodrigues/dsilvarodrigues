@@ -1,5 +1,10 @@
 <img width="1899" height="637" alt="ez8yeog7thhc1" src="https://github.com/user-attachments/assets/d3c623ef-2531-44f0-8def-11f54cbf564f" />
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dsilvarodrigues.dsilvarodrigues&"  />
+</div>
+
+###
+<div align="center">
   <h1>GitHub Stats</h1>
 
   <!-- Tabela para os dois cartões superiores -->
