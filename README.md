@@ -1,7 +1,7 @@
+<img width="1899" height="637" alt="ez8yeog7thhc1" src="https://github.com/user-attachments/assets/d3c623ef-2531-44f0-8def-11f54cbf564f" />
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dsilvarodrigues.dsilvarodrigues&"  />
 </div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
