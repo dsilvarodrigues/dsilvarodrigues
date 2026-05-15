@@ -1,5 +1,4 @@
 
-Claude terminou a resposta
 Você disse: <div align="center">
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d3c623ef-2531-44f0-8def-11f54cbf564f" width="100%" alt="banner" />
